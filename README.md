@@ -1,6 +1,6 @@
 # Realtime Chat App
 
-The Realtime Chat App is a web application that enables users to engage in real-time text-based conversations with their friends. Built using the Django framework, the app allows users to send and receive messages, view message history, and receive chat notifications. It fosters seamless communication and interaction between users.
+ TalkBuddy is a web application that enables users to engage in real-time text-based conversations with their friends. Built using the Django framework, the app allows users to send and receive messages, view message history, and receive chat notifications. It fosters seamless communication and interaction between users.
 
 ## Table of Contents
 
